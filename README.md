@@ -1,5 +1,7 @@
 # PatentConnect
 
+UPDATE 2020/08/31: Please note that this was our final project for COMPSCI 2XB3 at McMaster, and was posted on GitLab. Unfortunately, McMaster has since cleaned the GitLab and we don't have a full record of our project. The code here is mostly provided as reference, as some of its functionality as specified in the documentation came from a later version we were unable to recover. As well, our patent citation textfile was too large for GitHub. 
+
 **Requires Java 11 or greater.**
 
 ## Overview
